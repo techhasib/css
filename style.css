@@ -1,0 +1,116 @@
+h2{
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+
+.name{
+    color: white;
+    background-color: rgb(14, 79, 136);
+    margin: 2rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.hex{
+    color: #0084ff;
+    background-color: yellow;
+    margin: 2rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.rgb{
+    color: rgb(255, 255, 255);
+    background-color: rgb(214, 13, 233);
+    margin: 2rem;
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.quote{
+    background-color: turquoise;
+    height: 50px;
+    width: 70%;
+    font-size: 20px;
+    padding-top: 2rem;
+    border: 1px solid yellow;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+span{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+}
+.border{
+    border: 10px solid goldenrod;
+    border-radius: 10px;
+    margin: 10px 5px 15px 10px;
+}
+.box_model{
+    margin: 0px 300px;
+    padding: 30px;
+    border: 9px solid rgb(83, 47, 243);
+    height: 100px;
+    width: 200px;
+    background-color: crimson;
+    color: azure;
+}
+#id{
+    background-color: #0084ff;
+    color: white;
+    padding: 0.5rem;
+}
+#idinclass{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    padding: 0.5rem;
+}
+.idclass{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+.id{
+    background-color: yellow;
+    height: 350px;
+    width: 200px;
+    padding: 2rem;
+}
+
+.class{
+    background-color: #0084ff;
+    height: 350px;
+    width: 200px;
+    padding: 2rem;
+}
+
+#uniqe{
+    background-color: greenyellow;
+}
+
+.blog{
+    text-align: center;
+}
+.inline h4{
+    display: inline;
+}
+
+.inline .block small{
+    display: block;
+}
+
+.align{
+    text-align: justify;
+    margin: 0 auto;
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    padding-bottom: 6rem;
+
+}
